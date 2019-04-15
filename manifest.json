@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Hoogle Easy Searcher",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Hoogle and Stackage Easy Searcher",
   "icons": {
     "16": "icon16.png",
