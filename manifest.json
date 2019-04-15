@@ -1,16 +1,21 @@
 {
   "manifest_version": 2,
   "name": "Hoogle Easy Searcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hoogle Easy Searcher",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
-    "64": "icon64.png",
     "128": "icon128.png"
   },
   "browser_action": {
-    "default_icon": "icon128.png",
+    "default_icon": {
+      "16": "icon16.png",
+      "24": "icon24.png",
+      "32": "icon32.png"
+    },
+    "default_title": "Hoogle Easy Searcher",
     "default_popup": "popup.html"
   }
 }
+
